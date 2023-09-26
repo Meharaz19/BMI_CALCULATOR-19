@@ -1,0 +1,26 @@
+.formrow {
+    min-height: 50vmax;
+}
+
+.col-4 {
+    border-radius: 1rem;
+    padding: 60px;
+}
+
+body {
+    background-color: rgb(170, 161, 212);
+    text-align: center;
+}
+
+table{
+    height: 100px;
+    width: 550px;
+    background-color: rgb(182, 202, 195);
+    margin: 0 auto;
+    border: 5px solid cornflowerblue;
+}
+table.th,td{
+    margin: auto;
+    text-align: center;
+    border: 1px solid black ;
+}
